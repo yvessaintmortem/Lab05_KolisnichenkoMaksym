@@ -1,0 +1,12 @@
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\bin\Debug\Lab05_KravetsMaksym.exe.config
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\bin\Debug\Lab05_KravetsMaksym.exe
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\bin\Debug\Lab05_KravetsMaksym.pdb
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.csproj.AssemblyReference.cache
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.Form1.resources
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.FormAboutAuthor.resources
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.FormAboutCipher.resources
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.Properties.Resources.resources
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.csproj.GenerateResource.cache
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.csproj.CoreCompileInputs.cache
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.exe
+C:\Users\krave\Downloads\Lab05_KravetsMaksym\Lab05_KravetsMaksym\obj\Debug\Lab05_KravetsMaksym.pdb

@@ -1,0 +1,11 @@
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\bin\Debug\Lab05_KolisnichenkoMaksym.exe.config
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\bin\Debug\Lab05_KolisnichenkoMaksym.exe
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\bin\Debug\Lab05_KolisnichenkoMaksym.pdb
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.Form1.resources
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.FormAboutAuthor.resources
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.FormAboutCipher.resources
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.Properties.Resources.resources
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.csproj.GenerateResource.cache
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.csproj.CoreCompileInputs.cache
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.exe
+D:\4 Курс\Lab05_KolisnichenkoMaksym\Lab05_KolisnichenkoMaksym\obj\Debug\Lab05_KolisnichenkoMaksym.pdb
